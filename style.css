@@ -3,6 +3,10 @@
     margin: 0px;
 }
 
+body {
+    text-align: center;
+}
+
 .cabecalho {
     margin: 0px;
     background-color: rgba(235, 32, 76, 0.774);
@@ -38,6 +42,11 @@
 }
 
 #habilidades-img img {
-    width: 50%;
+    width: 15%;
 
+}
+
+figcaption {
+    /* importar fonte e colocar */
+    font-size: x-large;
 }
